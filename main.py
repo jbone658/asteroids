@@ -23,7 +23,7 @@ def main():
         dt = clock.tick()
         clock.tick(60)
         
-        print(dt)
+        
         
         
     print("Starting Asteroids!")
